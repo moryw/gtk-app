@@ -1,3 +1,8 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2023 Matt Warmerdam matt@skitskat.xyz
+ */
+
 public class MyApp : Gtk.Application {
   public MyApp () {
     Object (
