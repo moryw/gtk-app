@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.moryw.morys_sample_app</id>
+  
+  <name>Mory&apos;s Sample App</name>
+  <summary>A test app for learning to build and publish apps</summary>
+  
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      A test app for learning to build and publish apps based on the EOS developer guide. https://docs.elementary.io/develop/writing-apps/our-first-app/metadata
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.moryw.morys_sample_app.desktop</launchable>
+</component>
